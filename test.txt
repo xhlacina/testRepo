@@ -1,3 +1,9 @@
 Ahojte, ste hajzli
+<<<<<<< HEAD
 
 Vladys je dnes nervní 
+Vladys je dnes nervní 
+Vladys je dnes nervní 
+=======
+Nazdar chalani!
+>>>>>>> 5236a355f0145450127c86ab5d876b3b1bf191ea
